@@ -4,16 +4,13 @@ body{
 }
 header{
 	background-color: #dc4f4f;
-	height: 15vh;
 	border-top: 13px solid #000000;
 	border-bottom: 13px solid #000000;
 	font-weight: bold;
 }
 .goodwa{
 	display: flex;
-	justify-content: space-between;
-	margin-right: 15%;
-	margin-left: 15%;
+	justify-content: space-around;
 }
 .good{
 	color: #fff;
